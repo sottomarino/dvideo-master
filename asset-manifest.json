@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dvideo-master/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/dvideo-master/static/js/main.cbf2d7bd.chunk.js",
+    "main.js.map": "/dvideo-master/static/js/main.cbf2d7bd.chunk.js.map",
+    "runtime-main.js": "/dvideo-master/static/js/runtime-main.1c24a761.js",
+    "runtime-main.js.map": "/dvideo-master/static/js/runtime-main.1c24a761.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/dvideo-master/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.23c65abf.chunk.js": "/dvideo-master/static/js/2.23c65abf.chunk.js",
+    "static/js/2.23c65abf.chunk.js.map": "/dvideo-master/static/js/2.23c65abf.chunk.js.map",
+    "index.html": "/dvideo-master/index.html",
+    "precache-manifest.9e83d124c833461701e36a0190c47aad.js": "/dvideo-master/precache-manifest.9e83d124c833461701e36a0190c47aad.js",
+    "service-worker.js": "/dvideo-master/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/dvideo-master/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/dvideo-master/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.23c65abf.chunk.js.LICENSE.txt": "/dvideo-master/static/js/2.23c65abf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c24a761.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.23c65abf.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.cbf2d7bd.chunk.js"
+  ]
+}
